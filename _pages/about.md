@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Omics for plant research"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,3 +8,27 @@ redirect_from:
 ---
 
 # Omics for plant research
+
+多组学（Multi-omics）指的是**同时分析生物系统中多种不同类型的“组学”数据**，以更全面地理解生命过程或疾病机制。
+
+常见的组学类型包括：
+- 基因组学（DNA）：研究遗传信息
+- 转录组学（RNA）：研究基因表达
+- 蛋白质组学（蛋白质）：研究蛋白质的存在与活动
+- 代谢组学（代谢物）：研究小分子代谢物
+- 表观基因组学（如甲基化、染色质开放程度）：研究基因调控方式
+- 微生物组学：研究体内微生物群落
+
+为什么需要多组学？
+- 单一层次的数据往往只能看到部分信息
+- 多组学可以把基因、蛋白、代谢物等变化串联起来，更接近真实的生物系统
+- 有助于发现新的生物标志物、药物靶点或疾病机制
+
+应用场景：
+- 癌症研究（如肿瘤分型、预测预后）
+- 复杂疾病研究（如糖尿病、心血管疾病）
+- 药物研发
+- 农业育种
+- 微生物研究
+
+如果你需要，我还可以帮你解释多组学数据分析流程、常用技术（如RNA-seq、LC-MS等）、或多组学在某个领域的具体应用。
