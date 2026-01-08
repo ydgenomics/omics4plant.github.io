@@ -8,26 +8,26 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
+  - title: "Holovivology(Multi-omics)"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Plant"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "RNA-seq"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "ATAC-seq"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Blogs"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Article"
+    url: /publications/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #  url: /markdown/

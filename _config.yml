@@ -23,7 +23,7 @@ repository               : "ydgenomics/omics4plant.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/ydgenomics/Scripts/blob/main/pngs/ydgenomics_logo.png"
+  avatar           : "ydgenomics_logo.png"
   name             : "Dong Yang"
   pronouns         : # "he"  
   bio              : "Interested in plant omics and computational biology."
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
